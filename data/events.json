@@ -1,0 +1,85 @@
+[
+    {
+        "id": 2,
+        "userid": 1,
+        "title": "Run away meme",
+        "typeOfActivity": "biking no",
+        "description": "Hello world nono",
+        "date": "July 7 2023",
+        "userJoined": [
+            4
+        ],
+        "userlikes": [
+            2
+        ],
+        "userdislikes": []
+    },
+    {
+        "id": 6,
+        "userid": 5,
+        "title": "ss",
+        "typeOfActivity": "sss",
+        "description": "nothing",
+        "date": "2024-01-20",
+        "userJoined": [],
+        "userlikes": [
+            4
+        ],
+        "userdislikes": []
+    },
+    {
+        "id": 7,
+        "userid": 4,
+        "title": "d",
+        "typeOfActivity": "d",
+        "description": "d",
+        "date": "2024-01-06",
+        "userJoined": [],
+        "userlikes": [],
+        "userdislikes": []
+    },
+    {
+        "id": 8,
+        "userid": 5,
+        "title": "lol",
+        "typeOfActivity": "l",
+        "description": "lololo",
+        "date": "2024-01-06",
+        "userJoined": [
+            4,
+            1
+        ],
+        "userlikes": [
+            5,
+            4
+        ],
+        "userdislikes": []
+    },
+    {
+        "id": 11,
+        "userid": 7,
+        "title": "zz",
+        "typeOfActivity": "zz",
+        "description": "zzzz",
+        "date": "2024-01-13",
+        "userJoined": [
+            4
+        ],
+        "userlikes": [
+            7,
+            4
+        ],
+        "userdislikes": []
+    },
+    {
+        "id": 12,
+        "userid": 8,
+        "title": "sadf",
+        "typeOfActivity": "asdfa",
+        "description": "dsfsa",
+        "date": "2024-01-13",
+        "userJoined": [],
+        "userlikes": [],
+        "userdislikes": []
+    }
+]

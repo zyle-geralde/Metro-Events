@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "firstname": "hello",
+        "lastname": "me to",
+        "username": "you",
+        "email": "haha",
+        "password": "haha",
+        "type": "user"
+    },
+    {
+        "id": 2,
+        "firstname": "yow",
+        "lastname": "haha",
+        "username": "hahhahas",
+        "email": "ni",
+        "password": "no",
+        "type": "user"
+    },
+    {
+        "id": 3,
+        "firstname": "a",
+        "lastname": "b",
+        "username": "c",
+        "email": "d",
+        "password": "e",
+        "type": "user"
+    },
+    {
+        "id": 4,
+        "firstname": "a",
+        "lastname": "b",
+        "username": "cc",
+        "email": "dd",
+        "password": "fff",
+        "type": "user"
+    },
+    {
+        "id": 5,
+        "firstname": "zend",
+        "lastname": "blue",
+        "username": "iloveyou",
+        "email": "il",
+        "password": "ili",
+        "type": "user"
+    },
+    {
+        "id": 6,
+        "firstname": "Admin",
+        "lastname": "Admin",
+        "username": "admin",
+        "email": "admin@fff",
+        "password": "admin123",
+        "type": "admin"
+    },
+    {
+        "id": 7,
+        "firstname": "or",
+        "lastname": "org",
+        "username": "orga",
+        "email": "00",
+        "password": "11",
+        "type": "user"
+    },
+    {
+        "id": 8,
+        "firstname": "ken",
+        "lastname": "den",
+        "username": "jake",
+        "email": "jjl@j",
+        "password": "123",
+        "type": "organizer"
+    },
+    {
+        "id": 9,
+        "firstname": "some",
+        "lastname": "lol",
+        "username": "haha",
+        "email": "eme",
+        "password": "jam",
+        "type": "user"
+    }
+]
